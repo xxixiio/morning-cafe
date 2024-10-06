@@ -46,25 +46,25 @@ export function Navbar() {
       >
         <a
           href="#"
-          className="text-2xl font-bold text-gray-600 hover:text-gray-900 hover:underline"
+          className="text-lg font-bold text-gray-600 hover:text-gray-900 hover:underline"
         >
           Sobre nosotros
         </a>
         <a
           href="#"
-          className="text-2xl font-bold text-gray-600 hover:text-gray-900 hover:underline"
+          className="text-lg font-bold text-gray-600 hover:text-gray-900 hover:underline"
         >
           Tiendas
         </a>
         <a
           href="#"
-          className="text-2xl font-bold text-gray-600 hover:text-gray-900 hover:underline"
+          className="text-lg font-bold text-gray-600 hover:text-gray-900 hover:underline"
         >
           Carta
         </a>
         <a
           href="#"
-          className="text-2xl font-bold text-gray-600 hover:text-gray-900 hover:underline"
+          className="text-lg font-bold text-gray-600 hover:text-gray-900 hover:underline"
         >
           Blog
         </a>

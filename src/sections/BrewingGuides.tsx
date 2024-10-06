@@ -6,7 +6,7 @@ export function BrewingGuides() {
   ]
 
   return (
-    <section className="py-8 md:py-12 bg-off-white border-b-2 border-black">
+    <section className="pt-8 md:pt-12 bg-off-white border-b-2 border-black">
       <h2 className="text-2xl md:text-3xl font-bold text-center mb-6 md:mb-8">Brewing guides</h2>
       <div className="flex flex-wrap justify-center">
         {guides.map((guide, index) => (

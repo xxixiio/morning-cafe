@@ -1,6 +1,6 @@
 export function Footer() {
   return (
-    <footer className="bg-gray-900 text-white py-8 md:py-12">
+    <footer className="bg-light-beige text-black py-8 md:py-12 px-12">
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
@@ -28,13 +28,13 @@ export function Footer() {
           </div>
           <div>
             <h3 className="font-semibold mb-4">Contacto</h3>
-            <p>[]</p>
-            <p>[]</p>
-            <p>Phone: []</p>
+            <p>contact@morning.cafe</p>
+            <p>Av. del Molí, 47</p>
+            <p>Phone: +34 000 00 00 00</p>
           </div>
         </div>
         <div className="mt-8 text-center">
-          <p>&copy; 2023 [] All rights reserved.</p>
+          <p>&copy; 2025 Morning Café All rights reserved.</p>
         </div>
       </div>
     </footer>
