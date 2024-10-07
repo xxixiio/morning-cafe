@@ -48,7 +48,7 @@ export function Navbar() {
           href="#"
           className="text-lg font-bold text-gray-600 hover:text-gray-900 hover:underline"
         >
-          Sobre nosotros
+          Carta
         </a>
         <a
           href="#"
@@ -60,13 +60,13 @@ export function Navbar() {
           href="#"
           className="text-lg font-bold text-gray-600 hover:text-gray-900 hover:underline"
         >
-          Carta
+          Blog
         </a>
         <a
           href="#"
           className="text-lg font-bold text-gray-600 hover:text-gray-900 hover:underline"
         >
-          Blog
+          Sobre nosotros
         </a>
       </div>
 

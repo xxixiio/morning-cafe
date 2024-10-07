@@ -4,7 +4,7 @@ import { Features } from './sections/Features'
 import { FeaturedProduct } from './sections/FeaturedProduct'
 import { FeaturedCoffees } from './sections/FeaturedCoffees'
 import { MissionStatement } from './sections/MissionStatement'
-import { BrewingGuides } from './sections/BrewingGuides'
+import { Blog } from './sections/Blog'
 import { StoreLocations } from './sections/StoreLocations'
 import { Footer } from './sections/Footer'
 
@@ -17,7 +17,7 @@ export default function CoffeeShopPage() {
       <FeaturedProduct />
       <FeaturedCoffees />
       <MissionStatement />
-      <BrewingGuides />
+      <Blog />
       <StoreLocations />
       <Footer />
     </div>

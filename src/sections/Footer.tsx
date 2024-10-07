@@ -29,7 +29,7 @@ export function Footer() {
           <div>
             <h3 className="font-semibold mb-4">Contacto</h3>
             <p>contact@morning.cafe</p>
-            <p>Av. del Molí, 47</p>
+            <p>Av. del 123, 47</p>
             <p>Phone: +34 000 00 00 00</p>
           </div>
         </div>
